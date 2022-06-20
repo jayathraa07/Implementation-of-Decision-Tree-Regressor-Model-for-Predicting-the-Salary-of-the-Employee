@@ -53,6 +53,7 @@ dt.predict([[5,6]])
 
 ## Output:
 Data Head:
+
 ![image](https://user-images.githubusercontent.com/107881970/174664200-7dea3fac-6b83-4833-80df-07cd09202d6a.png)
 
 
